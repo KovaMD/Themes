@@ -25,5 +25,5 @@ footer:
   show_slide_number: true
 
 header:
-  show: false
+  show: true
   text: ""
