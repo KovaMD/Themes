@@ -1,0 +1,29 @@
+name: Tokyo Night
+
+colors:
+  primary:    "#3D59A1"   # darkened Tokyo blue — 6.4:1 with white
+  accent:     "#7AA2F7"   # Tokyo Night blue — 7.2:1 on bg
+  background: "#1A1B26"
+  text:       "#A9B1D6"
+  title_text: "#FFFFFF"
+  section_bg: "#24283B"
+  code_bg:    "#16161E"
+
+fonts:
+  title: "'Inter', 'Helvetica Neue', Arial, sans-serif"
+  body:  "'Inter', 'Helvetica Neue', Arial, sans-serif"
+  code:  "'JetBrains Mono', 'Fira Code', monospace"
+
+layout:
+  title_align:   left
+  heading_align: left
+  decoration:    bar-left
+
+footer:
+  show:              false
+  text:              "{title} — {slide_number} / {total}"
+  show_slide_number: true
+
+header:
+  show: true
+  text: ""
