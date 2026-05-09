@@ -1,0 +1,29 @@
+name: EKC Broadstairs
+
+colors:
+  primary:    "#9C3381"   # darkened magenta — 5:1 contrast with white
+  accent:     "#BD409C"   # brand magenta (#BD409C) — 4.8:1 on white
+  background: "#ffffff"
+  text:       "#1a1a1a"
+  title_text: "#ffffff"
+  section_bg: "#F5E1F2"
+  code_bg:    "#F5F7FA"
+
+fonts:
+  title: "Montserrat, 'Inter', 'Helvetica Neue', Arial, sans-serif"
+  body:  "Montserrat, 'Inter', 'Helvetica Neue', Arial, sans-serif"
+  code:  "'JetBrains Mono', 'Fira Code', monospace"
+
+layout:
+  title_align:   left
+  heading_align: left
+  decoration:    bar-left
+
+footer:
+  show:              false
+  text:              "{title} — {slide_number} / {total}"
+  show_slide_number: true
+
+header:
+  show: false
+  text: ""
