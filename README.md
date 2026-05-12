@@ -46,6 +46,9 @@ Classic colour schemes widely used in editors and terminals, adapted for present
 | `catppuccin-latte.yaml` | Catppuccin Latte | Light | Mauve `#8839EF` |
 | `monokai.yaml` | Monokai | Dark | Green `#A6E22E` |
 | `big-blue.yaml` | Big Blue | Light | IBM Blue `#0f62fe` |
+| `kanagawa-wave.yaml` | Kanagawa Wave | Dark | Crystal Blue `#7E9CD8` |
+| `kanagawa-dragon.yaml` | Kanagawa Dragon | Dark | Dragon Blue `#8BA4B0` |
+| `kanagawa-lotus.yaml` | Kanagawa Lotus | Light | Lotus Violet `#624C83` |
 
 All generic themes use Inter (or IBM Plex Sans where noted) (falling back to Helvetica Neue / Arial), left-aligned title slides, and a left accent bar decoration. Colour values are sourced from the canonical upstream palettes; primary tones are darkened where necessary to meet WCAG AA contrast with white title text.
 
