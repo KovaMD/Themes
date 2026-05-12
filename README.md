@@ -45,8 +45,9 @@ Classic colour schemes widely used in editors and terminals, adapted for present
 | `catppuccin-mocha.yaml` | Catppuccin Mocha | Dark | Mauve `#CBA6F7` |
 | `catppuccin-latte.yaml` | Catppuccin Latte | Light | Mauve `#8839EF` |
 | `monokai.yaml` | Monokai | Dark | Green `#A6E22E` |
+| `big-blue.yaml` | Big Blue | Light | IBM Blue `#0f62fe` |
 
-All generic themes use Inter (falling back to Helvetica Neue / Arial), left-aligned title slides, and a left accent bar decoration. Colour values are sourced from the canonical upstream palettes; primary tones are darkened where necessary to meet WCAG AA contrast with white title text.
+All generic themes use Inter (or IBM Plex Sans where noted) (falling back to Helvetica Neue / Arial), left-aligned title slides, and a left accent bar decoration. Colour values are sourced from the canonical upstream palettes; primary tones are darkened where necessary to meet WCAG AA contrast with white title text.
 
 ## Contributing
 
