@@ -8,6 +8,15 @@ colors:
   title_text: "#FFFFFF"
   section_bg: "#24283B"
   code_bg:    "#16161E"
+  chart_colors:
+    - "#7AA2F7"  # blue
+    - "#BB9AF7"  # purple
+    - "#73DACA"  # teal
+    - "#9ECE6A"  # green
+    - "#E0AF68"  # yellow
+    - "#FF9E64"  # orange
+    - "#F7768E"  # red/pink
+    - "#2AC3DE"  # cyan
 
 fonts:
   title: "'Inter', 'Helvetica Neue', Arial, sans-serif"

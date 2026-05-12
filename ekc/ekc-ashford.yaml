@@ -8,6 +8,15 @@ colors:
   title_text: "#ffffff"
   section_bg: "#DCE4F0"
   code_bg:    "#F5F7FA"
+  chart_colors:
+    - "#144C99"  # brand navy
+    - "#1A80CC"  # mid blue
+    - "#00ACC1"  # cyan
+    - "#00897B"  # teal
+    - "#F4511E"  # orange (complement)
+    - "#7B1FA2"  # purple
+    - "#E53935"  # red
+    - "#43A047"  # green
 
 fonts:
   title: "Montserrat, 'Inter', 'Helvetica Neue', Arial, sans-serif"

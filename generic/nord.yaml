@@ -8,6 +8,15 @@ colors:
   title_text: "#ECEFF4"
   section_bg: "#3B4252"
   code_bg:    "#434C5E"
+  chart_colors:
+    - "#88C0D0"  # frost light
+    - "#81A1C1"  # frost mid
+    - "#A3BE8C"  # aurora green
+    - "#EBCB8B"  # aurora yellow
+    - "#D08770"  # aurora orange
+    - "#BF616A"  # aurora red
+    - "#B48EAD"  # aurora purple
+    - "#5E81AC"  # frost dark
 
 fonts:
   title: "'Inter', 'Helvetica Neue', Arial, sans-serif"

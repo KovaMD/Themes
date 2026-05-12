@@ -8,6 +8,15 @@ colors:
   title_text: "#FFFFFF"
   section_bg: "#313244"
   code_bg:    "#181825"
+  chart_colors:
+    - "#CBA6F7"  # mauve
+    - "#89B4FA"  # blue
+    - "#94E2D5"  # teal
+    - "#A6E3A1"  # green
+    - "#F9E2AF"  # yellow
+    - "#FAB387"  # peach
+    - "#F38BA8"  # red
+    - "#F5C2E7"  # pink
 
 fonts:
   title: "'Inter', 'Helvetica Neue', Arial, sans-serif"

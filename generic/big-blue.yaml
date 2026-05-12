@@ -8,6 +8,15 @@ colors:
   title_text: "#ffffff"
   section_bg: "#edf5ff"   # IBM Blue 10
   code_bg:    "#f4f4f4"   # IBM Gray 10
+  chart_colors:
+    - "#0f62fe"  # IBM Blue 60
+    - "#0043ce"  # IBM Blue 70
+    - "#00b0ff"  # IBM Cyan 40
+    - "#009d9a"  # IBM Teal 50
+    - "#6929c4"  # IBM Purple 70
+    - "#d12771"  # IBM Magenta 60
+    - "#fa4d56"  # IBM Red 50
+    - "#ff832b"  # IBM Orange 40
 
 fonts:
   title: "'IBM Plex Sans', 'Inter', 'Helvetica Neue', Arial, sans-serif"
