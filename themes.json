@@ -2,111 +2,287 @@
   {
     "id": "big-blue",
     "name": "Big Blue",
-    "colors": { "primary": "#0043ce", "accent": "#0f62fe", "background": "#ffffff", "text": "#161616", "title_text": "#ffffff", "section_bg": "#edf5ff" }
+    "sha256": "ccf2fe9873b322b8dc52d05c330dcb7457627b64103c59479e6fb6ccfcfab0e2",
+    "colors": {
+      "primary": "#0043ce",
+      "accent": "#0f62fe",
+      "background": "#ffffff",
+      "text": "#161616",
+      "title_text": "#ffffff",
+      "section_bg": "#edf5ff"
+    }
   },
   {
     "id": "catppuccin-latte",
     "name": "Catppuccin Latte",
-    "colors": { "primary": "#8839EF", "accent": "#8839EF", "background": "#EFF1F5", "text": "#4C4F69", "title_text": "#FFFFFF", "section_bg": "#E6E9EF" }
+    "sha256": "6b19b2b7c544bbd942c40a69e3627efb58541931105a0095c0024f2616e961a8",
+    "colors": {
+      "primary": "#8839EF",
+      "accent": "#8839EF",
+      "background": "#EFF1F5",
+      "text": "#4C4F69",
+      "title_text": "#FFFFFF",
+      "section_bg": "#E6E9EF"
+    }
   },
   {
     "id": "catppuccin-mocha",
     "name": "Catppuccin Mocha",
-    "colors": { "primary": "#313244", "accent": "#CBA6F7", "background": "#1E1E2E", "text": "#CDD6F4", "title_text": "#FFFFFF", "section_bg": "#313244" }
+    "sha256": "0b64134163d43aeceb12117bb7f8d272d213eb3d4d69a2d2b93d3217e4c27cfe",
+    "colors": {
+      "primary": "#313244",
+      "accent": "#CBA6F7",
+      "background": "#1E1E2E",
+      "text": "#CDD6F4",
+      "title_text": "#FFFFFF",
+      "section_bg": "#313244"
+    }
   },
   {
     "id": "dracula",
     "name": "Dracula",
-    "colors": { "primary": "#44475A", "accent": "#BD93F9", "background": "#282A36", "text": "#F8F8F2", "title_text": "#FFFFFF", "section_bg": "#44475A" }
-  },
-  {
-    "id": "gruvbox-dark",
-    "name": "Gruvbox Dark",
-    "colors": { "primary": "#3C3836", "accent": "#FE8019", "background": "#282828", "text": "#EBDBB2", "title_text": "#FFFFFF", "section_bg": "#3C3836" }
-  },
-  {
-    "id": "gruvbox-light",
-    "name": "Gruvbox Light",
-    "colors": { "primary": "#A34800", "accent": "#A34800", "background": "#FBF1C7", "text": "#3C3836", "title_text": "#FFFFFF", "section_bg": "#EBDBB2" }
-  },
-  {
-    "id": "kanagawa-dragon",
-    "name": "Kanagawa Dragon",
-    "colors": { "primary": "#282727", "accent": "#8BA4B0", "background": "#181616", "text": "#C5C9C5", "title_text": "#ffffff", "section_bg": "#282727" }
-  },
-  {
-    "id": "kanagawa-lotus",
-    "name": "Kanagawa Lotus",
-    "colors": { "primary": "#624C83", "accent": "#624C83", "background": "#F2ECBC", "text": "#545464", "title_text": "#ffffff", "section_bg": "#E5DDB0" }
-  },
-  {
-    "id": "kanagawa-wave",
-    "name": "Kanagawa Wave",
-    "colors": { "primary": "#223249", "accent": "#7E9CD8", "background": "#1F1F28", "text": "#DCD7BA", "title_text": "#ffffff", "section_bg": "#2A2A37" }
-  },
-  {
-    "id": "monokai",
-    "name": "Monokai",
-    "colors": { "primary": "#C01F5A", "accent": "#A6E22E", "background": "#272822", "text": "#F8F8F2", "title_text": "#FFFFFF", "section_bg": "#3E3D32" }
-  },
-  {
-    "id": "nord",
-    "name": "Nord",
-    "colors": { "primary": "#4C6FA5", "accent": "#88C0D0", "background": "#2E3440", "text": "#D8DEE9", "title_text": "#ECEFF4", "section_bg": "#3B4252" }
-  },
-  {
-    "id": "one-dark",
-    "name": "One Dark",
-    "colors": { "primary": "#21252B", "accent": "#61AFEF", "background": "#282C34", "text": "#ABB2BF", "title_text": "#FFFFFF", "section_bg": "#2C313C" }
-  },
-  {
-    "id": "solarized-dark",
-    "name": "Solarized Dark",
-    "colors": { "primary": "#073642", "accent": "#268BD2", "background": "#002B36", "text": "#839496", "title_text": "#FFFFFF", "section_bg": "#073642" }
-  },
-  {
-    "id": "solarized-light",
-    "name": "Solarized Light",
-    "colors": { "primary": "#1B6CA8", "accent": "#1B6CA8", "background": "#FDF6E3", "text": "#657B83", "title_text": "#FFFFFF", "section_bg": "#EEE8D5" }
-  },
-  {
-    "id": "tokyo-night",
-    "name": "Tokyo Night",
-    "colors": { "primary": "#3D59A1", "accent": "#7AA2F7", "background": "#1A1B26", "text": "#A9B1D6", "title_text": "#FFFFFF", "section_bg": "#24283B" }
+    "sha256": "f562b24d87c26f2377dd00f6090dc5e5953b06997e82abc7d67c77f6ed69edcd",
+    "colors": {
+      "primary": "#44475A",
+      "accent": "#BD93F9",
+      "background": "#282A36",
+      "text": "#F8F8F2",
+      "title_text": "#FFFFFF",
+      "section_bg": "#44475A"
+    }
   },
   {
     "id": "ekc-ashford",
     "name": "EKC Ashford",
-    "colors": { "primary": "#144C99", "accent": "#144C99", "background": "#ffffff", "text": "#1a1a1a", "title_text": "#ffffff", "section_bg": "#DCE4F0" }
+    "sha256": "abef9c782e5f4919724445c79f4ca6515de93d0b7ed075220fa65bcb222cee8c",
+    "colors": {
+      "primary": "#144C99",
+      "accent": "#144C99",
+      "background": "#ffffff",
+      "text": "#1a1a1a",
+      "title_text": "#ffffff",
+      "section_bg": "#DCE4F0"
+    }
   },
   {
     "id": "ekc-broadstairs",
     "name": "EKC Broadstairs",
-    "colors": { "primary": "#9C3381", "accent": "#BD409C", "background": "#ffffff", "text": "#1a1a1a", "title_text": "#ffffff", "section_bg": "#F5E1F2" }
+    "sha256": "76b8cd611a167bee0cc0d47a70e9b7d0c11c7a428c46105e9f07907db1cf2094",
+    "colors": {
+      "primary": "#9C3381",
+      "accent": "#BD409C",
+      "background": "#ffffff",
+      "text": "#1a1a1a",
+      "title_text": "#ffffff",
+      "section_bg": "#F5E1F2"
+    }
   },
   {
     "id": "ekc-canterbury",
     "name": "EKC Canterbury",
-    "colors": { "primary": "#0076AB", "accent": "#0076AB", "background": "#ffffff", "text": "#1a1a1a", "title_text": "#ffffff", "section_bg": "#D9EFF9" }
+    "sha256": "6328d7e1d03d60f2b00953c320e8c5192bf099452a555ad3d53085d8329507f2",
+    "colors": {
+      "primary": "#0076AB",
+      "accent": "#0076AB",
+      "background": "#ffffff",
+      "text": "#1a1a1a",
+      "title_text": "#ffffff",
+      "section_bg": "#D9EFF9"
+    }
   },
   {
     "id": "ekc-dover",
     "name": "EKC Dover",
-    "colors": { "primary": "#3A7D29", "accent": "#3A7D29", "background": "#ffffff", "text": "#1a1a1a", "title_text": "#ffffff", "section_bg": "#DFF0D8" }
+    "sha256": "b18ec37b13b84fc4838b2b01d16721c9586df46f4c665e8ee05162ab06dec37c",
+    "colors": {
+      "primary": "#3A7D29",
+      "accent": "#3A7D29",
+      "background": "#ffffff",
+      "text": "#1a1a1a",
+      "title_text": "#ffffff",
+      "section_bg": "#DFF0D8"
+    }
   },
   {
     "id": "ekc-folkestone",
     "name": "EKC Folkestone",
-    "colors": { "primary": "#5D5094", "accent": "#7669B1", "background": "#ffffff", "text": "#1a1a1a", "title_text": "#ffffff", "section_bg": "#ECEAF6" }
+    "sha256": "601778777ad8f8240d60674c50b3f257346cb2a861c9d9cb8812bb7823e0cff5",
+    "colors": {
+      "primary": "#5D5094",
+      "accent": "#7669B1",
+      "background": "#ffffff",
+      "text": "#1a1a1a",
+      "title_text": "#ffffff",
+      "section_bg": "#ECEAF6"
+    }
   },
   {
     "id": "ekc-group",
     "name": "EKC Group",
-    "colors": { "primary": "#00857E", "accent": "#00857E", "background": "#ffffff", "text": "#1a1a1a", "title_text": "#ffffff", "section_bg": "#D9F3F1" }
+    "sha256": "12e14211d3b46400684e263db6927bfeaff8c35ce722d2ad4a2b8dd50f3a1c99",
+    "colors": {
+      "primary": "#00857E",
+      "accent": "#00857E",
+      "background": "#ffffff",
+      "text": "#1a1a1a",
+      "title_text": "#ffffff",
+      "section_bg": "#D9F3F1"
+    }
   },
   {
     "id": "ekc-sheppey",
     "name": "EKC Sheppey",
-    "colors": { "primary": "#A84D00", "accent": "#C45900", "background": "#ffffff", "text": "#1a1a1a", "title_text": "#ffffff", "section_bg": "#FDEBD4" }
+    "sha256": "5e0d7faaf9616b30c1c75ea7328cee2f41e05969a977b0574d7ac74af57d02f7",
+    "colors": {
+      "primary": "#A84D00",
+      "accent": "#C45900",
+      "background": "#ffffff",
+      "text": "#1a1a1a",
+      "title_text": "#ffffff",
+      "section_bg": "#FDEBD4"
+    }
+  },
+  {
+    "id": "gruvbox-dark",
+    "name": "Gruvbox Dark",
+    "sha256": "b8d0d6f67ed3d40359c3de35cfb8ca6d0057910e2b8b48effeea1e6295d803b0",
+    "colors": {
+      "primary": "#3C3836",
+      "accent": "#FE8019",
+      "background": "#282828",
+      "text": "#EBDBB2",
+      "title_text": "#FFFFFF",
+      "section_bg": "#3C3836"
+    }
+  },
+  {
+    "id": "gruvbox-light",
+    "name": "Gruvbox Light",
+    "sha256": "a0bca2a60668b080c0d9f81860a1d2901d6dd00062839759f1c539f622ce6381",
+    "colors": {
+      "primary": "#A34800",
+      "accent": "#A34800",
+      "background": "#FBF1C7",
+      "text": "#3C3836",
+      "title_text": "#FFFFFF",
+      "section_bg": "#EBDBB2"
+    }
+  },
+  {
+    "id": "kanagawa-dragon",
+    "name": "Kanagawa Dragon",
+    "sha256": "e477f70c810c2bc9a19a452959539f57debe949ba9acacca7e3d1f1403e650ca",
+    "colors": {
+      "primary": "#282727",
+      "accent": "#8BA4B0",
+      "background": "#181616",
+      "text": "#C5C9C5",
+      "title_text": "#ffffff",
+      "section_bg": "#282727"
+    }
+  },
+  {
+    "id": "kanagawa-lotus",
+    "name": "Kanagawa Lotus",
+    "sha256": "5a5e091de7aa0e87c70a8e1aa84a3fc39c8b161b7ab809fea3910b338f3cb759",
+    "colors": {
+      "primary": "#624C83",
+      "accent": "#624C83",
+      "background": "#F2ECBC",
+      "text": "#545464",
+      "title_text": "#ffffff",
+      "section_bg": "#E5DDB0"
+    }
+  },
+  {
+    "id": "kanagawa-wave",
+    "name": "Kanagawa Wave",
+    "sha256": "af78b30075559bfbdce3c0a0c7628bfb7f4eef91729fe44bec2e695387cfc10a",
+    "colors": {
+      "primary": "#223249",
+      "accent": "#7E9CD8",
+      "background": "#1F1F28",
+      "text": "#DCD7BA",
+      "title_text": "#ffffff",
+      "section_bg": "#2A2A37"
+    }
+  },
+  {
+    "id": "monokai",
+    "name": "Monokai",
+    "sha256": "1b77d26258aca8bd215278bc8ec64b295d2cc4c19547df5165f289ca10ffc8e1",
+    "colors": {
+      "primary": "#C01F5A",
+      "accent": "#A6E22E",
+      "background": "#272822",
+      "text": "#F8F8F2",
+      "title_text": "#FFFFFF",
+      "section_bg": "#3E3D32"
+    }
+  },
+  {
+    "id": "nord",
+    "name": "Nord",
+    "sha256": "021117afd642606450a8feeee89275d5fe78b7d347de5f831545059ccdb63287",
+    "colors": {
+      "primary": "#4C6FA5",
+      "accent": "#88C0D0",
+      "background": "#2E3440",
+      "text": "#D8DEE9",
+      "title_text": "#ECEFF4",
+      "section_bg": "#3B4252"
+    }
+  },
+  {
+    "id": "one-dark",
+    "name": "One Dark",
+    "sha256": "7c54d1f40fb2582642a664241a7c209fb0e074b2b4020e2e562825d8f9346a6b",
+    "colors": {
+      "primary": "#21252B",
+      "accent": "#61AFEF",
+      "background": "#282C34",
+      "text": "#ABB2BF",
+      "title_text": "#FFFFFF",
+      "section_bg": "#2C313C"
+    }
+  },
+  {
+    "id": "solarized-dark",
+    "name": "Solarized Dark",
+    "sha256": "a029072ef8cce61a44d35050efa6e606291d634fc79b6372e2d0a8f6bc32cd8c",
+    "colors": {
+      "primary": "#073642",
+      "accent": "#268BD2",
+      "background": "#002B36",
+      "text": "#839496",
+      "title_text": "#FFFFFF",
+      "section_bg": "#073642"
+    }
+  },
+  {
+    "id": "solarized-light",
+    "name": "Solarized Light",
+    "sha256": "f108420884e731ad8f8c616225fc8dc5f32d671e47093c7d3a0172469c4b07af",
+    "colors": {
+      "primary": "#1B6CA8",
+      "accent": "#1B6CA8",
+      "background": "#FDF6E3",
+      "text": "#657B83",
+      "title_text": "#FFFFFF",
+      "section_bg": "#EEE8D5"
+    }
+  },
+  {
+    "id": "tokyo-night",
+    "name": "Tokyo Night",
+    "sha256": "9f7ef0f9743742e529ad803edbb6ce8dac0eeb0c044e848dec2f9e1810cc9732",
+    "colors": {
+      "primary": "#3D59A1",
+      "accent": "#7AA2F7",
+      "background": "#1A1B26",
+      "text": "#A9B1D6",
+      "title_text": "#FFFFFF",
+      "section_bg": "#24283B"
+    }
   }
 ]
