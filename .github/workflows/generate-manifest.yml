@@ -1,0 +1,59 @@
+name: Generate Themes Manifest
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'themes/*.yaml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate themes.json with SHA-256 hashes
+        run: |
+          pip install pyyaml -q
+          python3 - << 'EOF'
+          import yaml, json, hashlib
+          from pathlib import Path
+
+          themes = []
+          for f in sorted(Path('themes').glob('*.yaml')):
+              raw = f.read_bytes()
+              data = yaml.safe_load(raw)
+              colors = data.get('colors', {})
+              entry = {
+                  'id': f.stem,
+                  'name': data.get('name', f.stem),
+                  'sha256': hashlib.sha256(raw).hexdigest(),
+                  'colors': {
+                      'primary':    colors.get('primary', ''),
+                      'accent':     colors.get('accent', ''),
+                      'background': colors.get('background', ''),
+                      'text':       colors.get('text', ''),
+                  },
+              }
+              for k in ('title_text', 'section_bg'):
+                  if colors.get(k):
+                      entry['colors'][k] = colors[k]
+              themes.append(entry)
+
+          Path('themes.json').write_text(json.dumps(themes, indent=2) + '\n')
+          print(f'Generated themes.json with {len(themes)} themes')
+          EOF
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add themes.json
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "chore: regenerate themes.json with updated hashes"
+          git push
