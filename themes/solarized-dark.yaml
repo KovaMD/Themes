@@ -1,0 +1,38 @@
+name: Solarized Dark
+
+colors:
+  primary:    "#073642"   # Solarized base02 — 12.7:1 with white
+  accent:     "#268BD2"   # Solarized blue — 5.8:1 on bg
+  background: "#002B36"
+  text:       "#839496"
+  title_text: "#FFFFFF"
+  section_bg: "#073642"
+  code_bg:    "#073642"
+  chart_colors:
+    - "#268BD2"  # blue
+    - "#2AA198"  # cyan
+    - "#859900"  # green
+    - "#B58900"  # yellow
+    - "#CB4B16"  # orange
+    - "#DC322F"  # red
+    - "#D33682"  # magenta
+    - "#6C71C4"  # violet
+
+fonts:
+  title: "'Inter', 'Helvetica Neue', Arial, sans-serif"
+  body:  "'Inter', 'Helvetica Neue', Arial, sans-serif"
+  code:  "'JetBrains Mono', 'Fira Code', monospace"
+
+layout:
+  title_align:   left
+  heading_align: left
+  decoration:    bar-left
+
+footer:
+  show:              false
+  text:              "{title} — {slide_number} / {total}"
+  show_slide_number: true
+
+header:
+  show: true
+  text: ""

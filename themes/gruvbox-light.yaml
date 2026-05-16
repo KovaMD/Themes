@@ -1,0 +1,38 @@
+name: Gruvbox Light
+
+colors:
+  primary:    "#A34800"   # darkened Gruvbox orange — 5.7:1 with white
+  accent:     "#A34800"   # same — 5.1:1 on cream bg
+  background: "#FBF1C7"
+  text:       "#3C3836"
+  title_text: "#FFFFFF"
+  section_bg: "#EBDBB2"
+  code_bg:    "#EBDBB2"
+  chart_colors:
+    - "#D65D0E"  # orange
+    - "#D79921"  # yellow
+    - "#98971A"  # green
+    - "#689D6A"  # aqua
+    - "#458588"  # blue
+    - "#B16286"  # purple
+    - "#CC241D"  # red
+    - "#7C6F64"  # brown
+
+fonts:
+  title: "'Inter', 'Helvetica Neue', Arial, sans-serif"
+  body:  "'Inter', 'Helvetica Neue', Arial, sans-serif"
+  code:  "'JetBrains Mono', 'Fira Code', monospace"
+
+layout:
+  title_align:   left
+  heading_align: left
+  decoration:    bar-left
+
+footer:
+  show:              false
+  text:              "{title} — {slide_number} / {total}"
+  show_slide_number: true
+
+header:
+  show: true
+  text: ""

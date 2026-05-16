@@ -1,0 +1,38 @@
+name: Big Blue
+
+colors:
+  primary:    "#0043ce"   # IBM Blue 70 — 7.8:1 with white
+  accent:     "#0f62fe"   # IBM Blue 60 — Carbon's AA-engineered brand blue, 5.0:1 on white
+  background: "#ffffff"
+  text:       "#161616"   # IBM Gray 100
+  title_text: "#ffffff"
+  section_bg: "#edf5ff"   # IBM Blue 10
+  code_bg:    "#f4f4f4"   # IBM Gray 10
+  chart_colors:
+    - "#0f62fe"  # IBM Blue 60
+    - "#0043ce"  # IBM Blue 70
+    - "#00b0ff"  # IBM Cyan 40
+    - "#009d9a"  # IBM Teal 50
+    - "#6929c4"  # IBM Purple 70
+    - "#d12771"  # IBM Magenta 60
+    - "#fa4d56"  # IBM Red 50
+    - "#ff832b"  # IBM Orange 40
+
+fonts:
+  title: "'IBM Plex Sans', 'Inter', 'Helvetica Neue', Arial, sans-serif"
+  body:  "'IBM Plex Sans', 'Inter', 'Helvetica Neue', Arial, sans-serif"
+  code:  "'IBM Plex Mono', 'JetBrains Mono', 'Fira Code', monospace"
+
+layout:
+  title_align:   left
+  heading_align: left
+  decoration:    bar-left
+
+footer:
+  show:              false
+  text:              "{title} — {slide_number} / {total}"
+  show_slide_number: true
+
+header:
+  show: true
+  text: ""

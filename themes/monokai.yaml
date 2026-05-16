@@ -1,0 +1,36 @@
+name: Monokai
+
+colors:
+  primary:    "#C01F5A"   # darkened Monokai red/pink — 5.7:1 with white
+  accent:     "#A6E22E"   # Monokai green — 9.5:1 on bg
+  background: "#272822"
+  text:       "#F8F8F2"
+  title_text: "#FFFFFF"
+  section_bg: "#3E3D32"
+  code_bg:    "#1E1F1C"
+  chart_colors:
+    - "#A6E22E"  # green
+    - "#66D9E8"  # cyan
+    - "#AE81FF"  # purple
+    - "#F92672"  # red/pink
+    - "#FD971F"  # orange
+    - "#E6DB74"  # yellow
+
+fonts:
+  title: "'Inter', 'Helvetica Neue', Arial, sans-serif"
+  body:  "'Inter', 'Helvetica Neue', Arial, sans-serif"
+  code:  "'JetBrains Mono', 'Fira Code', monospace"
+
+layout:
+  title_align:   left
+  heading_align: left
+  decoration:    bar-left
+
+footer:
+  show:              false
+  text:              "{title} — {slide_number} / {total}"
+  show_slide_number: true
+
+header:
+  show: true
+  text: ""
