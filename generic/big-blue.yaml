@@ -7,7 +7,7 @@ colors:
   text:       "#161616"   # IBM Gray 100
   title_text: "#ffffff"
   section_bg: "#edf5ff"   # IBM Blue 10
-  code_bg:    "#f4f4f4"   # IBM Gray 10
+  code_bg:    "#1d2b3a"   # IBM Gray 100 dark
   chart_colors:
     - "#0f62fe"  # IBM Blue 60
     - "#0043ce"  # IBM Blue 70

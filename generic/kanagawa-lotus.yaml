@@ -7,7 +7,7 @@ colors:
   text:       "#545464"   # lotusInk1 — 6.2:1 on bg
   title_text: "#ffffff"
   section_bg: "#E5DDB0"   # lotusWhite2
-  code_bg:    "#DCD7BA"   # lotusGray
+  code_bg:    "#1f1f28"   # lotusGray
   chart_colors:
     - "#4D699B"  # lotusBlue4
     - "#6F894E"  # lotusGreen

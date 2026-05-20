@@ -7,7 +7,7 @@ colors:
   text:       "#4C4F69"
   title_text: "#FFFFFF"
   section_bg: "#E6E9EF"
-  code_bg:    "#E6E9EF"
+  code_bg:    "#303446"
   chart_colors:
     - "#8839EF"  # mauve
     - "#1E66F5"  # blue
