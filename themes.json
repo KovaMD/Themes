@@ -54,7 +54,7 @@
   {
     "id": "ekc-ashford",
     "name": "Ashford",
-    "sha256": "abef9c782e5f4919724445c79f4ca6515de93d0b7ed075220fa65bcb222cee8c",
+    "sha256": "5ff715265e982cda999085cde16ac9eec6928aaf32cdb0d55172003e3a54cdb5",
     "colors": {
       "primary": "#144C99",
       "accent": "#144C99",
@@ -67,7 +67,7 @@
   {
     "id": "ekc-broadstairs",
     "name": "Broadstairs",
-    "sha256": "76b8cd611a167bee0cc0d47a70e9b7d0c11c7a428c46105e9f07907db1cf2094",
+    "sha256": "4983862cc703ce94b924e2efbca0ad3c8ae2714e25ea9d12db8c59515bda8869",
     "colors": {
       "primary": "#9C3381",
       "accent": "#BD409C",
@@ -80,7 +80,7 @@
   {
     "id": "ekc-canterbury",
     "name": "Canterbury",
-    "sha256": "6328d7e1d03d60f2b00953c320e8c5192bf099452a555ad3d53085d8329507f2",
+    "sha256": "9817a60b84488e224260764aa55230a1b0a769f8319621b1594ae3ca3aca6d38",
     "colors": {
       "primary": "#0076AB",
       "accent": "#0076AB",
@@ -93,7 +93,7 @@
   {
     "id": "ekc-dover",
     "name": "Dover",
-    "sha256": "b18ec37b13b84fc4838b2b01d16721c9586df46f4c665e8ee05162ab06dec37c",
+    "sha256": "e76adc344e8c240f01f5ba0310de6a57f2a5553c648d0cf9c2dad4cbca339422",
     "colors": {
       "primary": "#3A7D29",
       "accent": "#3A7D29",
@@ -106,7 +106,7 @@
   {
     "id": "ekc-folkestone",
     "name": "Folkestone",
-    "sha256": "601778777ad8f8240d60674c50b3f257346cb2a861c9d9cb8812bb7823e0cff5",
+    "sha256": "63e477c9bf786fd245cd43fcb97e5f0ec6ece14cdff5ed6bfb2dd2123c7e120f",
     "colors": {
       "primary": "#5D5094",
       "accent": "#7669B1",
@@ -119,7 +119,7 @@
   {
     "id": "ekc-group",
     "name": "East Kent",
-    "sha256": "12e14211d3b46400684e263db6927bfeaff8c35ce722d2ad4a2b8dd50f3a1c99",
+    "sha256": "0e3eb8e701bbadce8e3214ae6f11d26ba5228d4c67fe787fc2b38c96991ae006",
     "colors": {
       "primary": "#00857E",
       "accent": "#00857E",
@@ -132,7 +132,7 @@
   {
     "id": "ekc-sheppey",
     "name": "Sheppey",
-    "sha256": "5e0d7faaf9616b30c1c75ea7328cee2f41e05969a977b0574d7ac74af57d02f7",
+    "sha256": "d06fad11f6e70ba4d9ff475323608beccee24e30963d02c943dd7feead084118",
     "colors": {
       "primary": "#A84D00",
       "accent": "#C45900",
