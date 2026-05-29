@@ -53,7 +53,7 @@
   },
   {
     "id": "ekc-ashford",
-    "name": "EKC Ashford",
+    "name": "Ashford",
     "sha256": "abef9c782e5f4919724445c79f4ca6515de93d0b7ed075220fa65bcb222cee8c",
     "colors": {
       "primary": "#144C99",
@@ -66,7 +66,7 @@
   },
   {
     "id": "ekc-broadstairs",
-    "name": "EKC Broadstairs",
+    "name": "Broadstairs",
     "sha256": "76b8cd611a167bee0cc0d47a70e9b7d0c11c7a428c46105e9f07907db1cf2094",
     "colors": {
       "primary": "#9C3381",
@@ -79,7 +79,7 @@
   },
   {
     "id": "ekc-canterbury",
-    "name": "EKC Canterbury",
+    "name": "Canterbury",
     "sha256": "6328d7e1d03d60f2b00953c320e8c5192bf099452a555ad3d53085d8329507f2",
     "colors": {
       "primary": "#0076AB",
@@ -92,7 +92,7 @@
   },
   {
     "id": "ekc-dover",
-    "name": "EKC Dover",
+    "name": "Dover",
     "sha256": "b18ec37b13b84fc4838b2b01d16721c9586df46f4c665e8ee05162ab06dec37c",
     "colors": {
       "primary": "#3A7D29",
@@ -105,7 +105,7 @@
   },
   {
     "id": "ekc-folkestone",
-    "name": "EKC Folkestone",
+    "name": "Folkestone",
     "sha256": "601778777ad8f8240d60674c50b3f257346cb2a861c9d9cb8812bb7823e0cff5",
     "colors": {
       "primary": "#5D5094",
@@ -118,7 +118,7 @@
   },
   {
     "id": "ekc-group",
-    "name": "EKC Group",
+    "name": "East Kent",
     "sha256": "12e14211d3b46400684e263db6927bfeaff8c35ce722d2ad4a2b8dd50f3a1c99",
     "colors": {
       "primary": "#00857E",
@@ -131,7 +131,7 @@
   },
   {
     "id": "ekc-sheppey",
-    "name": "EKC Sheppey",
+    "name": "Sheppey",
     "sha256": "5e0d7faaf9616b30c1c75ea7328cee2f41e05969a977b0574d7ac74af57d02f7",
     "colors": {
       "primary": "#A84D00",
