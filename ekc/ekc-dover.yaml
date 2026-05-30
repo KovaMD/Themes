@@ -23,6 +23,9 @@ fonts:
   body:  "Montserrat, 'Inter', 'Helvetica Neue', Arial, sans-serif"
   code:  "'JetBrains Mono', 'Fira Code', monospace"
 
+bundledFonts:
+  - Montserrat
+
 layout:
   title_align:   left
   heading_align: left

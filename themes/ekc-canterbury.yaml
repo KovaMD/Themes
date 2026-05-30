@@ -7,7 +7,7 @@ colors:
   text:       "#1a1a1a"
   title_text: "#ffffff"
   section_bg: "#D9EFF9"
-  code_bg:    "#F5F7FA"
+  code_bg:    "#1a1a2e"
   chart_colors:
     - "#0076AB"  # brand blue
     - "#00A0E4"  # brand light blue
@@ -22,6 +22,9 @@ fonts:
   title: "Montserrat, 'Inter', 'Helvetica Neue', Arial, sans-serif"
   body:  "Montserrat, 'Inter', 'Helvetica Neue', Arial, sans-serif"
   code:  "'JetBrains Mono', 'Fira Code', monospace"
+
+bundledFonts:
+  - Montserrat
 
 layout:
   title_align:   left
