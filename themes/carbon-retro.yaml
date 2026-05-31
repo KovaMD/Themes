@@ -1,0 +1,42 @@
+# Kova Theme — Carbon Retro
+# Based on the IBM Colors Theme VS Code extension by PaperFanz
+# https://github.com/PaperFanz/ibm-color-palette-color-scheme
+
+name: Carbon Retro
+
+colors:
+  primary:    "#161616"   # IBM Carbon near-black — title/section slide background
+  accent:     "#009bef"   # IBM cyan — links, highlights, progress bars
+  background: "#272727"   # IBM editor dark — default slide background
+  text:       "#f3f3f3"   # near-white — body text
+  title_text: "#fdfdfd"   # white — text on title and section slides
+  section_bg: "#343334"   # IBM mid-dark — section divider background
+  code_bg:    "#1a1a1a"   # deepest dark — code block background
+  chart_colors:
+    - "#009bef"  # IBM cyan
+    - "#785ef0"  # IBM indigo
+    - "#34bc6e"  # IBM green
+    - "#fed500"  # IBM yellow
+    - "#ff5c49"  # IBM red
+    - "#fe8500"  # IBM orange
+    - "#40d5bb"  # IBM teal
+    - "#ff509e"  # IBM pink
+
+fonts:
+  title: "'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif"
+  body:  "'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif"
+  code:  "'IBM Plex Mono', 'JetBrains Mono', 'Fira Code', monospace"
+
+layout:
+  title_align:   left
+  heading_align: left
+  decoration:    bar-left
+
+footer:
+  show:              false
+  text:              "{title} — {slide_number} / {total}"
+  show_slide_number: true
+
+header:
+  show: false
+  text: ""

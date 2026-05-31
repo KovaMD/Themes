@@ -13,6 +13,19 @@
     }
   },
   {
+    "id": "carbon-retro",
+    "name": "Carbon Retro",
+    "sha256": "8101711ec4bed489ead53ed786324ffdb97ddf0ecbe00efee3f29ea7984ad6dc",
+    "colors": {
+      "primary": "#161616",
+      "accent": "#009bef",
+      "background": "#272727",
+      "text": "#f3f3f3",
+      "title_text": "#fdfdfd",
+      "section_bg": "#343334"
+    }
+  },
+  {
     "id": "catppuccin-latte",
     "name": "Catppuccin Latte",
     "sha256": "6b19b2b7c544bbd942c40a69e3627efb58541931105a0095c0024f2616e961a8",
