@@ -10,16 +10,13 @@ Community and official theme packs for [Kova](https://github.com/KovaMD/Kova).
 2. Restart Kova.
 3. The theme will appear in the theme picker (toolbar or Settings → Themes).
 
-## Theme Packs
+## Themes
 
-### Generic — Developer community themes (`generic/`)
+All themes live in `themes/`. Current packs:
 
-Classic colour schemes widely used in editors and terminals, adapted for presentations.
-
-### EKC — East Kent Colleges Group (`ekc/`)
-
-Campus themes for East Kent Colleges Group, built around each campus brand colour.
+- **Generic** — classic colour schemes widely used in editors and terminals, adapted for presentations.
+- **EKC** — East Kent Colleges Group campus themes, built around each campus brand colour.
 
 ## Contributing
 
-Themes are plain YAML files. Copy `example.yaml` from your Kova themes folder as a starting point, then open a PR.
+Themes are plain YAML files. Add your `.yaml` file to `themes/` and open a PR.
