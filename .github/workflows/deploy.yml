@@ -26,6 +26,6 @@ jobs:
 
           ssh -i /tmp/deploy_key -o StrictHostKeyChecking=yes \
             "$USER@$HOST" \
-            'git -C /opt/kova/themes/data pull --ff-only'
+            'git -C /opt/kova/themes/data fetch origin main && git -C /opt/kova/themes/data reset --hard origin/main'
 
           rm /tmp/deploy_key
