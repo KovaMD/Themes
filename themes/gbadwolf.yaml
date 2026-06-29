@@ -1,0 +1,38 @@
+name: Gbadwolf
+
+colors:
+  primary:    "#242321"   # surface bg — main content background
+  accent:     "#d65d0e"   # accent orange — 5.9:1 on bg
+  background: "#1c1b1a"   # root bg — page background
+  text:       "#d9cec3"   # primary fg — body text
+  title_text: "#d65d0e"   # dark-orange variation — headings & titles
+  section_bg: "#32302f"   # hover bg — section/sidebar background
+  code_bg:    "#242321"   # surface bg — code block background
+  chart_colors:
+    - "#d65d0e"  # accent orange
+    - "#cc4e02"  # dark orange
+    - "#ffa724"  # strong yellow
+    - "#f4cf86"  # accent yellow
+    - "#d75f00"  # deep dark-orange (polybar reference)
+    - "#e07b30"  # mid orange
+    - "#ea8c40"  # warm amber
+
+fonts:
+  title: "'Inter', 'Helvetica Neue', Arial, sans-serif"
+  body:  "'Inter', 'Helvetica Neue', Arial, sans-serif"
+  code:  "'JetBrains Mono', 'Fira Code', monospace"
+
+layout:
+  title_align:   left
+  heading_align: left
+  decoration:    bar-left
+
+footer:
+  show:              false
+  text:              "{title} — {slide_number} / {total}"
+  show_slide_number: true
+
+header:
+  show: true
+  text: ""
+
