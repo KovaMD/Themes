@@ -11,7 +11,7 @@ Open Kova and go to **Inspector → More Themes**. Themes from this repository a
 If you need to install a theme without the library browser:
 
 1. Copy any `.yaml` file into your Kova themes folder:
-   - **Linux / macOS:** `~/.kova/themes/`
+   - **Linux / macOS:** `~/.config/kova/themes/`
    - **Windows:** `%APPDATA%\kova\themes\`
 2. Restart Kova.
 3. The theme will appear in the theme picker (toolbar or Settings → Themes).
