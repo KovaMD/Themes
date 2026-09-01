@@ -34,7 +34,7 @@ layout:
 
 footer:
   show:              false
-  text:              "{title} — {slide_number} / {total}"
+  text:              "{title}"
   show_slide_number: true
 
 header:

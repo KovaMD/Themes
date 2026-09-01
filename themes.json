@@ -2,7 +2,7 @@
   {
     "id": "big-blue",
     "name": "Big Blue",
-    "sha256": "ccf2fe9873b322b8dc52d05c330dcb7457627b64103c59479e6fb6ccfcfab0e2",
+    "sha256": "3507c44b42799637f5a2a4ad40c738eda46337d5cb2351c753c10e30a3bbf3ce",
     "colors": {
       "primary": "#0043ce",
       "accent": "#0f62fe",
@@ -15,7 +15,7 @@
   {
     "id": "carbon-retro",
     "name": "Carbon Retro",
-    "sha256": "8101711ec4bed489ead53ed786324ffdb97ddf0ecbe00efee3f29ea7984ad6dc",
+    "sha256": "300b3bd57390c1c19c15d7a31ed12b02871a71aa90b57cc72813b708d6e160c5",
     "colors": {
       "primary": "#161616",
       "accent": "#009bef",
@@ -28,7 +28,7 @@
   {
     "id": "catppuccin-latte",
     "name": "Catppuccin Latte",
-    "sha256": "6b19b2b7c544bbd942c40a69e3627efb58541931105a0095c0024f2616e961a8",
+    "sha256": "d7f78222b7be4013c7aa38c33bb03582feee41011cb39fade1f1eca947930f16",
     "colors": {
       "primary": "#8839EF",
       "accent": "#8839EF",
@@ -41,7 +41,7 @@
   {
     "id": "catppuccin-mocha",
     "name": "Catppuccin Mocha",
-    "sha256": "0b64134163d43aeceb12117bb7f8d272d213eb3d4d69a2d2b93d3217e4c27cfe",
+    "sha256": "7c86feee46871d8a10dc290faad673eb7842fa18b2aec9b722ac3d91aed7169a",
     "colors": {
       "primary": "#313244",
       "accent": "#CBA6F7",
@@ -54,7 +54,7 @@
   {
     "id": "dracula",
     "name": "Dracula",
-    "sha256": "f562b24d87c26f2377dd00f6090dc5e5953b06997e82abc7d67c77f6ed69edcd",
+    "sha256": "1c4632484b05d3e0c05491a0124a4e4d1980d1cbb6f727840b92348688a827da",
     "colors": {
       "primary": "#44475A",
       "accent": "#BD93F9",
@@ -67,7 +67,7 @@
   {
     "id": "ekc-ashford",
     "name": "Ashford",
-    "sha256": "f8b4cb295e57f752b3ce9d8e3f6514a421deb3896ab90b6d623285aca0141367",
+    "sha256": "bdc37a6684391fe55a8b9c2cd3f3d0b8fe9f3aac319ee54d4adf53b8d53748d3",
     "colors": {
       "primary": "#144C99",
       "accent": "#144C99",
@@ -80,7 +80,7 @@
   {
     "id": "ekc-broadstairs",
     "name": "Broadstairs",
-    "sha256": "fb787e8b4aa640f7ff46a8a45a874f095e566663e94eb177a7516e1aa2091801",
+    "sha256": "6677fe46e5fdb1ca90b0cea765023a45337a029914109336720d524728f97be2",
     "colors": {
       "primary": "#9C3381",
       "accent": "#BD409C",
@@ -93,7 +93,7 @@
   {
     "id": "ekc-canterbury",
     "name": "Canterbury",
-    "sha256": "e1c4f5c03870afabee0813eda0b4b91fea8118500b63413f04e5f3fd67dadf9b",
+    "sha256": "a087fab388e1870222946d70f336a97fbafcb31a425cd2045d23750ad2a96dd4",
     "colors": {
       "primary": "#0076AB",
       "accent": "#0076AB",
@@ -106,7 +106,7 @@
   {
     "id": "ekc-dover",
     "name": "Dover",
-    "sha256": "4fa23a0164964a9ae17177124e90b282bd4011cc52fdc722143ee32dabe7ad2c",
+    "sha256": "1fd517912a591528ae58a996f70ce20ebdddea09716b517729e60f181428863d",
     "colors": {
       "primary": "#3A7D29",
       "accent": "#3A7D29",
@@ -119,7 +119,7 @@
   {
     "id": "ekc-folkestone",
     "name": "Folkestone",
-    "sha256": "302cc42b1850ae2e34ee5e2c695956f71f38dd4ef79c67bbade7ecd3df7f2be4",
+    "sha256": "f4f467ee1088650353bd0d60a264b8504c2a745beb295e14e735030c2f32258c",
     "colors": {
       "primary": "#5D5094",
       "accent": "#7669B1",
@@ -132,7 +132,7 @@
   {
     "id": "ekc-group",
     "name": "East Kent",
-    "sha256": "1f4cb7732546cf8ffe030c8bdfc6145d673f7e7251a3e96fd326c5ad9dfee409",
+    "sha256": "0f9b50d05f318cf41b9cb41b4070e4d762a911d7f624e771255e305987288550",
     "colors": {
       "primary": "#00857E",
       "accent": "#00857E",
@@ -145,7 +145,7 @@
   {
     "id": "ekc-sheppey",
     "name": "Sheppey",
-    "sha256": "317036fbcac8ec33b3835a495bb1026552c1479c66e153e4c04952ce0e927905",
+    "sha256": "384a754c86d7f7c645a0a9f5115537beba181fcc93733de738fccaf00fb5ddd1",
     "colors": {
       "primary": "#A84D00",
       "accent": "#C45900",
@@ -158,7 +158,7 @@
   {
     "id": "gruvbox-dark",
     "name": "Gruvbox Dark",
-    "sha256": "b8d0d6f67ed3d40359c3de35cfb8ca6d0057910e2b8b48effeea1e6295d803b0",
+    "sha256": "35847c840289e562d3963f40f69ef25cafecbc584563c335d6f95c9f946c7c0e",
     "colors": {
       "primary": "#3C3836",
       "accent": "#FE8019",
@@ -171,7 +171,7 @@
   {
     "id": "gruvbox-light",
     "name": "Gruvbox Light",
-    "sha256": "a0bca2a60668b080c0d9f81860a1d2901d6dd00062839759f1c539f622ce6381",
+    "sha256": "0e95da9746005f815dbb55ee597a99dcdc831717d2f9761ac80d4d5c7985e2a9",
     "colors": {
       "primary": "#A34800",
       "accent": "#A34800",
@@ -184,7 +184,7 @@
   {
     "id": "kanagawa-dragon",
     "name": "Kanagawa Dragon",
-    "sha256": "e477f70c810c2bc9a19a452959539f57debe949ba9acacca7e3d1f1403e650ca",
+    "sha256": "d1dd20a8057b22d31ab8c8edad58fdb4cbfccd02e7317264a114efd0c31c1bf5",
     "colors": {
       "primary": "#282727",
       "accent": "#8BA4B0",
@@ -197,7 +197,7 @@
   {
     "id": "kanagawa-lotus",
     "name": "Kanagawa Lotus",
-    "sha256": "5a5e091de7aa0e87c70a8e1aa84a3fc39c8b161b7ab809fea3910b338f3cb759",
+    "sha256": "1e97d893ff2b4f14ed08be8bd11690370d9507885c783cb3497901ca5a6f3b78",
     "colors": {
       "primary": "#624C83",
       "accent": "#624C83",
@@ -210,7 +210,7 @@
   {
     "id": "kanagawa-wave",
     "name": "Kanagawa Wave",
-    "sha256": "af78b30075559bfbdce3c0a0c7628bfb7f4eef91729fe44bec2e695387cfc10a",
+    "sha256": "b7fa5c346b669623618d5125e0557069650d6276d6b756e2a4f95bc580b1fee4",
     "colors": {
       "primary": "#223249",
       "accent": "#7E9CD8",
@@ -223,7 +223,7 @@
   {
     "id": "monokai",
     "name": "Monokai",
-    "sha256": "1b77d26258aca8bd215278bc8ec64b295d2cc4c19547df5165f289ca10ffc8e1",
+    "sha256": "b0d5cbc0cd2974c0886268cd9c9f86149c4380a8ce71704a939e63ff9fc42e13",
     "colors": {
       "primary": "#C01F5A",
       "accent": "#A6E22E",
@@ -236,7 +236,7 @@
   {
     "id": "nord",
     "name": "Nord",
-    "sha256": "021117afd642606450a8feeee89275d5fe78b7d347de5f831545059ccdb63287",
+    "sha256": "c2da40a4c863101ca9ea9c74d117c84da0d9ce611c6b6427d7b4748dfe370a21",
     "colors": {
       "primary": "#4C6FA5",
       "accent": "#88C0D0",
@@ -249,7 +249,7 @@
   {
     "id": "one-dark",
     "name": "One Dark",
-    "sha256": "7c54d1f40fb2582642a664241a7c209fb0e074b2b4020e2e562825d8f9346a6b",
+    "sha256": "0cdb0ddf16eeec8e07e0c7cef6122e02576db5ba9be418d978a85520a5fe6599",
     "colors": {
       "primary": "#21252B",
       "accent": "#61AFEF",
@@ -262,7 +262,7 @@
   {
     "id": "solarized-dark",
     "name": "Solarized Dark",
-    "sha256": "a029072ef8cce61a44d35050efa6e606291d634fc79b6372e2d0a8f6bc32cd8c",
+    "sha256": "f87b3dce882b2e7050ebdf570ec260a6a40e61f68a0f8eaacf519d65f75d083e",
     "colors": {
       "primary": "#073642",
       "accent": "#268BD2",
@@ -275,7 +275,7 @@
   {
     "id": "solarized-light",
     "name": "Solarized Light",
-    "sha256": "f108420884e731ad8f8c616225fc8dc5f32d671e47093c7d3a0172469c4b07af",
+    "sha256": "b85644ba099b29281b6942f0eddbf8cce561f064730855bcd37c719d3ef592a8",
     "colors": {
       "primary": "#1B6CA8",
       "accent": "#1B6CA8",
@@ -288,7 +288,7 @@
   {
     "id": "tokyo-night",
     "name": "Tokyo Night",
-    "sha256": "9f7ef0f9743742e529ad803edbb6ce8dac0eeb0c044e848dec2f9e1810cc9732",
+    "sha256": "7651c4f7aeed3ec76c1981f263685ae63fe38172d2bca8d4bf5cb79464c31bcc",
     "colors": {
       "primary": "#3D59A1",
       "accent": "#7AA2F7",
